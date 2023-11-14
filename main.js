@@ -47,4 +47,4 @@ function generateKey(length, characters) {
   }
   return randomString;
 }
-console.log(generateKey(37, characters));
+console.log(generateKey(16, characters));
